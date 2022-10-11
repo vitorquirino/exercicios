@@ -1,20 +1,6 @@
 @charset "UTF-8";
 
-p{
-    color: aqua;
-    background-color: cornflowerblue;
-
-}
-
 #paragrafo1{
-    color: red;
-    background-color: transparent;
-}
-
-.fundo-azul{
-    background-color: blue;
-}
-
-.texto-amarelo{
-    color: yellow;
+    color:#412C84;
+    background-color:#60D6A7;
 }
