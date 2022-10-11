@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+#paragrafo1{
+    background-color: chocolate;
+    background-image: url(./imagens/BackgroundImage.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+    width: 500px ;
+    height: 300px ;
+}
+
+p{
+    background-image: url(./imagens/Fundo_abstrato.jpg);
+    width: 300px;
+    background-attachment: fixed;
+}
+
+body{
+    background-image: url(./imagens/Ceramica.jpg);
+}
