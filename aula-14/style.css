@@ -1,0 +1,6 @@
+@charset "UTF-8";
+
+#verde{
+    height: 100px;
+    background:linear-gradient(to top , blue,30%,rgba(6, 223, 252, 0.956));
+}
