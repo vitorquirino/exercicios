@@ -1,0 +1,26 @@
+#p1{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    padding: 10px;
+    border: 10px solid black ;
+    box-sizing: border-box;
+    margin: 10px;
+    
+}
+
+#p2{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    margin: 10px;
+}
+
+p{
+    color: white;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
