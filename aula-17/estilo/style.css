@@ -1,0 +1,23 @@
+.blue{
+    height: 100px;
+    width: 100px;
+    border-width: 3px;
+    border-style: solid;
+    border-color:  blue;
+    background-color: chartreuse;
+    border-radius: 50%;
+}
+
+.red{
+    height: 100px;
+    /*background-color: red;*/
+}
+
+.green{
+    height: 100px;
+   /* background-color: green;*/
+}
+
+p{
+    border: 1px dashed black;
+}
