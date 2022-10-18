@@ -1,0 +1,23 @@
+.blue{
+    background-color: blue;
+    height: 100px;
+}
+
+.red{
+    background-color: red;
+    height: 100px;
+    border-style: solid;
+    margin: 20px;
+    padding: 100px;
+    
+}
+
+.green{
+    background-color: green;
+    height: 100px;
+}
+
+p{
+    color: white;
+    margin: 0px;
+}
