@@ -1,0 +1,21 @@
+a{
+    background-color: rgba(137, 43, 226, 0.804);
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    font-size: 18px;
+    border-radius: 6px;
+}
+
+a:visited{
+    background-color: blue;
+}
+
+a:hover{
+    padding: 25px;
+    background-color: rgba(72, 173, 191, 0.818);
+}
+
+a:active{
+    background-color: rgb(4, 80, 106);
+}
