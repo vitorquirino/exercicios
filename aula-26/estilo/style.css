@@ -1,0 +1,28 @@
+img{
+    width: 200px;
+}
+
+div{
+    border: 1px solid black;
+    background-color: rgba(38, 189, 161, 0.718);
+    padding: 10px;
+    overflow: auto;
+}
+
+#im1{
+    float: left;
+}
+
+p{
+    
+}
+
+
+li{
+    display: inline;
+    background-color: blueviolet;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
+    float: right;
+}
