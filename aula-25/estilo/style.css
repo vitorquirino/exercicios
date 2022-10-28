@@ -1,0 +1,31 @@
+#quadro{
+    width: 500px;
+    height: 4000px;
+    border: solid 1px black;
+    background-color: aqua;
+}
+
+.quadrado{
+    
+}
+
+.red{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+
+.blue{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    right: 0px;
+    position: fixed;
+}
+
+.green{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+}
